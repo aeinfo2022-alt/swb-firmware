@@ -1,0 +1,10 @@
+{
+  "SW12": {
+    "version": "3.1.1",
+    "url": "https://github.com/aeinfo2022-alt/swb-firmware/SW12-3.1.1.bin",
+    "size": 1385552,
+    "sha256": "a207fd3f104bda6740d956702f1ae1bb6fdb09f5547cd27729a2dbfde5e41cb6",
+    "sig": "MEQCIEWTbJZqzDhvaiNGV12jUlEnCEs4lPhZB1PbQGCwoWDzAiAzSSUMyRfO9P0IbCJJ59X3YF5GxmLpCQ/ZLgpaiz56dg==",
+    "notes": "Version V3.1.1 nothing change"
+  }
+}
